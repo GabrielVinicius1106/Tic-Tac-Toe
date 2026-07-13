@@ -1,5 +1,6 @@
 # Tic Tac Toe Game
 
-- [ ] Desenhar Board e Ícones (X e O)
-- [ ] Criar Lógica para Jogadas
-- [ ] Criar Lógica para Pontuação
+- [X] Desenhar Board e Ícones (X e O)
+- [X] Criar Lógica para Jogadas
+- [X] Criar Lógica para Pontuação
+- [ ] Adicionar Animação de Vitória e Som 
